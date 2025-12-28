@@ -1,54 +1,62 @@
 <div align="center">
 
-# Hi, I'm Faraz Fazelifar.
+# Hi, I'm Faraz.
 
-### AI Engineer & Python Developer
+### AI Engineer & Educator
 
-I build practical AI applications, focusing on **RAG systems**, **LLM orchestration**, and **Educational Tech**.  
-I like taking complex AI concepts and turning them into tools that actually help people study better and work smarter.
+I break down complex AI concepts into open-source tutorials.  
+My goal is to make concepts in the AI/gen-AI field accessible—whether you are building a local LLM pipeline or understanding the math behind attention mechanisms.
 
-[Projects](#-projects) • [Tech Stack](#-tech-stack) • [Connect](#-connect)
+[Tutorials](#-teaching--tutorials) • [Projects](#-projects) • [Connect](#-connect)
 
 ---
 
 </div>
 
-## ⚡ About Me
+## 📚 Teaching & Tutorials
 
-I'm a developer who prefers **local LLMs** over API calls whenever possible. My work centers around stripping away the hype from AI and building things that work. Right now, I'm deep into:
+I spend a lot of time deconstructing how AI actually works. These repositories are designed as step-by-step guides for developers who want to learn by doing.
 
-* **RAG Pipelines:** Making retrieval faster and more accurate (StudyBuddyAI).
-* **Agents:** experimenting with how multiple AI agents can plan and execute tasks (AI Idea Factory).
-* **Local AI:** Running models like Llama 3 on consumer hardware using Ollama.
+### 🧠 Advanced AI & LLM Architecture
+
+**[Transformers Deep Dive](https://github.com/FarazFazelifar/Transformers-Deep-Dive)** *Understanding the engine behind the hype.* Using LLMs is easy; understanding them is not. I created this repo to break down the Transformer architecture, the Attention mechanism, and the math that powers modern AI.
+* **Focus:** Deep Learning, Transformer Architecture, Attention Mechanisms.
+
+**[Introduction to RAG](https://github.com/FarazFazelifar/Introduction-to-RAG)** *Retrieval-Augmented Generation, demystified.* RAG is the industry standard for custom AI context. This repo strips away the complexity and shows you how to build a generic RAG system from scratch without relying on black-box tools.
+* **Focus:** Vector DBs, Embeddings, Context Retrieval.
+
+**[Local AutoGen Agents](https://github.com/FarazFazelifar/Local-AutoGen-Agents-Tutorial)** *Autonomous Agents without the OpenAI bill.* Most Agent tutorials require paid API keys. I wrote this guide to show how you can run Microsoft's AutoGen completely locally using Ollama.
+* **Focus:** AutoGen, Ollama, Local Model Orchestration.
+
+* **[LlamaIndex Retrievers](https://github.com/FarazFazelifar/llamaindex-retrievers)** A technical comparison of different retrieval strategies to see how they impact answer quality.
+* **Focus:** LlamaIndex, RAG and retrieval methods
+
+### 📉 Foundations & Data Science
+
+**[Introduction to Python for Data Science](https://github.com/FarazFazelifar/Introduction-to-Python-for-Data-Science)** *The building blocks.* Before you can build AI, you need to master the data. This is my collection of notebooks covering the essentials of Python, NumPy, and Pandas for aspiring data scientists.
+
+---
+
+## 🚀 Applied Projects
+
+When I'm not writing tutorials, I build tools to put these concepts into practice.
+
+* **[StudyBuddyAI](https://github.com/FarazFazelifar/StudyBuddyAI):** A RAG-based study companion that reads textbooks and quizzes students. Built to test how LLMs handle large educational PDFs.
+* **[AI Resume Assistant](https://github.com/FarazFazelifar/AI-resume-assistant):** A Streamlit app using Llama 3.2 to rewrite resumes and generate professional PDFs.
+* **[AI Idea Factory](https://github.com/FarazFazelifar/AI-Idea-Factory):** An experiment in multi-agent collaboration where AI "employees" brainstorm project ideas.
 
 ## 🛠 Tech Stack
 
-**Languages & Frameworks**
+**Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-**AI & ML**
+**AI & Frameworks**
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-
-## 🚀 Projects
-
-### 🎓 [StudyBuddyAI](https://github.com/FarazFazelifar/StudyBuddyAI)
-*A RAG-based study companion.*
-I built this to help students process PDFs faster. Instead of reading 100 pages, you can chat with your textbook. It generates flashcards, custom exams, and grades your answers using Llama 2.
-* **Tech:** Python, LangChain, ChromaDB, Ollama.
-
-### 📄 [AI Resume Assistant](https://github.com/FarazFazelifar/AI-resume-assistant)
-*Intelligent resume generation.*
-A tool that takes your raw info and crafts a professional resume. It uses Llama 3.2 to write the content and ReportLab to generate a clean PDF.
-* **Tech:** Streamlit, Llama 3.2, ReportLab.
-
-### 💡 [AI Idea Factory](https://github.com/FarazFazelifar/AI-Idea-Factory)
-*Multi-agent collaboration.*
-An experiment in autonomous agents. I set up a "team" of AI agents to brainstorm, critique, and plan project ideas without human intervention.
 
 ## 📈 GitHub Stats
 
@@ -60,6 +68,8 @@ An experiment in autonomous agents. I set up a "team" of AI agents to brainstorm
 <br />
 
 ## 📫 Connect
+
+I'm always open to discussing AI education or potential collaborations.
 
 * **LinkedIn:** [Faraz Fazelifar](https://www.linkedin.com/in/faraz-fazelifar/)
 * **Email:** [nafarazf@gmail.com](mailto:nafarazf@gmail.com)
