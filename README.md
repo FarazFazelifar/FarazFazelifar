@@ -28,7 +28,7 @@ I spend a lot of time deconstructing how AI actually works. These repositories a
 **[Local AutoGen Agents](https://github.com/FarazFazelifar/Local-AutoGen-Agents-Tutorial)** *Autonomous Agents without the OpenAI bill.* Most Agent tutorials require paid API keys. I wrote this guide to show how you can run Microsoft's AutoGen completely locally using Ollama.
 * **Focus:** AutoGen, Ollama, Local Model Orchestration.
 
-* **[LlamaIndex Retrievers](https://github.com/FarazFazelifar/llamaindex-retrievers)** A technical comparison of different retrieval strategies to see how they impact answer quality.
+** **[LlamaIndex Retrievers](https://github.com/FarazFazelifar/llamaindex-retrievers)** A technical comparison of different retrieval strategies to see how they impact answer quality.
 * **Focus:** LlamaIndex, RAG and retrieval methods
 
 ### 📉 Foundations & Data Science
