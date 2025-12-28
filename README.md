@@ -1,42 +1,65 @@
-# 👋 Hi, I'm Faraz Fazelifar
+<div align="center">
 
-Welcome to my GitHub profile. I have a keen interest in artificial intelligence and enjoy developing practical applications, particularly in the educational and utility sectors.
+# Hi, I'm Faraz Fazelifar.
 
-## 🧠 About Me
+### AI Engineer & Python Developer
 
-- **AI Enthusiast:** I explore AI technologies to create tools that address real-world challenges.
-- **Continuous Learner:** I'm committed to expanding my knowledge in machine learning, data science, and software development.
-- **Education Advocate:** I aim to develop resources that make learning more accessible and effective.
+I build practical AI applications, focusing on **RAG systems**, **LLM orchestration**, and **Educational Tech**.  
+I like taking complex AI concepts and turning them into tools that actually help people study better and work smarter.
+
+[Projects](#-projects) • [Tech Stack](#-tech-stack) • [Connect](#-connect)
+
+---
+
+</div>
+
+## ⚡ About Me
+
+I'm a developer who prefers **local LLMs** over API calls whenever possible. My work centers around stripping away the hype from AI and building things that work. Right now, I'm deep into:
+
+* **RAG Pipelines:** Making retrieval faster and more accurate (StudyBuddyAI).
+* **Agents:** experimenting with how multiple AI agents can plan and execute tasks (AI Idea Factory).
+* **Local AI:** Running models like Llama 3 on consumer hardware using Ollama.
+
+## 🛠 Tech Stack
+
+**Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+**AI & ML**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 
 ## 🚀 Projects
 
-Here are some of the projects I've been working on:
+### 🎓 [StudyBuddyAI](https://github.com/FarazFazelifar/StudyBuddyAI)
+*A RAG-based study companion.*
+I built this to help students process PDFs faster. Instead of reading 100 pages, you can chat with your textbook. It generates flashcards, custom exams, and grades your answers using Llama 2.
+* **Tech:** Python, LangChain, ChromaDB, Ollama.
 
-### [StudyBuddyAI](https://github.com/FarazFazelifar/StudyBuddyAI)
+### 📄 [AI Resume Assistant](https://github.com/FarazFazelifar/AI-resume-assistant)
+*Intelligent resume generation.*
+A tool that takes your raw info and crafts a professional resume. It uses Llama 3.2 to write the content and ReportLab to generate a clean PDF.
+* **Tech:** Streamlit, Llama 3.2, ReportLab.
 
-An AI-powered study companion designed to enhance the learning experience. It offers personalized answers, generates topic-specific flashcards, and creates custom exams to support students in their studies.
+### 💡 [AI Idea Factory](https://github.com/FarazFazelifar/AI-Idea-Factory)
+*Multi-agent collaboration.*
+An experiment in autonomous agents. I set up a "team" of AI agents to brainstorm, critique, and plan project ideas without human intervention.
 
-### [AI-Idea-Factory](https://github.com/FarazFazelifar/AI-Idea-Factory)
+## 📈 GitHub Stats
 
-A collaborative platform where AI agents generate and plan innovative project ideas, exploring the potential of AI in various applications.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FarazFazelifar&show_icons=true&theme=gotham&hide_border=true" height="160" alt="Faraz's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarazFazelifar&layout=compact&theme=gotham&hide_border=true" height="160" alt="Top Languages" />
+</div>
 
-### [RAG-Demo1](https://github.com/FarazFazelifar/RAG-Demo1)
+<br />
 
-A demonstration of a Retrieval-Augmented Generation (RAG) model, combining retrieval-based and generative approaches for more accurate and context-aware AI responses.
+## 📫 Connect
 
-### [CookBookAI](https://github.com/FarazFazelifar/CookBookAI)
-
-An AI-driven application focused on cooking, assisting users in creating recipes, meal plans, and cooking instructions using AI technologies.
-
-### [AI-Resume-Assistant](https://github.com/FarazFazelifar/AI-resume-assitant)
-
-A customizable resume generator built with AI, designed to help users create professional resumes tailored to their career goals.
-
-## 📫 Let's Connect
-
-I'm open to discussions about AI, education, and potential collaborations. Feel free to reach out to me via:
-
-- **LinkedIn:** [Faraz Fazelifar](https://www.linkedin.com/in/faraz-fazelifar/)
-- **Email:** nafarazf@gmail.com
-
-Looking forward to connecting and exploring opportunities together.
+* **LinkedIn:** [Faraz Fazelifar](https://www.linkedin.com/in/faraz-fazelifar/)
+* **Email:** [nafarazf@gmail.com](mailto:nafarazf@gmail.com)
