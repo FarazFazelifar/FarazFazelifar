@@ -64,7 +64,6 @@ When I'm not writing tutorials, I build tools to put these concepts into practic
   <img src="https://github-readme-stats.vercel.app/api?username=FarazFazelifar&show_icons=true&theme=gotham&hide_border=true" height="160" alt="Faraz's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarazFazelifar&layout=compact&theme=gotham&hide_border=true" height="160" alt="Top Languages" />
 </div>
-
 <br />
 
 ## 📫 Connect
